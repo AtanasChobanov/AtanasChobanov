@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atanas Chobanov</h1>
-<h3 align="center">Junior Full-Stack Developer | TypeScript • Node.js • PostgreSQL | National Olympiad Laureate | Co-Founder of PromoMania</h3>
+<h3 align="center">Full-Stack Developer | TypeScript • Node.js • PostgreSQL | National Olympiad Laureate | Co-Founder of PromoMania</h3>
 
 - 🔭 I’m currently working on [PromoMania](https://promomania.app)
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/atanas-chobanov/](https://www.linkedin.com/in/atanas-chobanov/)
 
-- ⚡ Fun fact **Started building production software before graduating high school and co-developed an award-winning mobile app with 7,000+ downloads.**
+- ⚡ Fun fact **Started building production software before graduating high school and co-developed an award-winning mobile app with 10,000+ downloads.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
