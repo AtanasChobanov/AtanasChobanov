@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atanas Chobanov</h1>
 <h3 align="center">Full-Stack Developer | TypeScript • Node.js • PostgreSQL | National Olympiad Laureate | Co-Founder of PromoMania</h3>
 
-- 🔭 I’m currently working on [PromoMania](https://promomania.app)
+- 🔭 I’m currently working on [Paragliding-Forecasts-Bulgaria](https://github.com/AtanasChobanov/Paragliding-Forecasts-Bulgaria) and [PromoMania](https://promomania.app)
 
 - 🌱 I’m currently learning **React, Next.js, System Design, Cloud Technologies, Software Architecture**
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AtanasChobanov?tab=repositories](https://github.com/AtanasChobanov?tab=repositories)
 
-- 💬 Ask me about **TypeScript, Node.js, PostgreSQL, REST APIs, Angular, WordPress, Software Architecture**
+- 💬 Ask me about **TypeScript, Node.js, Python, PostgreSQL, REST APIs, Angular, WordPress, Software Architecture**
 
 - 📫 How to reach me **atanaschobanov2008@gmail.com**
 
